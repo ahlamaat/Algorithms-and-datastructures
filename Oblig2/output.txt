@@ -1,0 +1,330 @@
+buildhouse1:
+Time: 0
+     Starting: 5
+     Current staff: 2
+
+Time: 4
+     Starting: 1
+     Finished: 5
+     Starting: 6
+     Current staff: 4
+
+Time: 6
+     Finished: 6
+     Current staff: 2
+     Time: 8
+     Finished: 1
+     Starting: 2
+     Current staff: 4
+
+Time: 14
+      Finished: 2
+      Starting: 3
+      Starting: 4
+      Starting: 7
+      Current staff: 7
+
+Time: 15
+      Finished: 3
+      Finished: 4
+      Current staff: 2
+
+Time: 18
+      Finished: 7
+      Starting: 8
+      Current staff: 4
+
+Time: 22
+      Finished: 8
+      Current staff: 0
+
+**** Shortest possible project execution is 22 ****
+
+
+
+buildhouse2:
+Found a cycle:
+5 1 2 7 6
+
+Couldn't find optimal time schedule due to cycle(s)!
+
+
+examplefigure:
+Time: 0
+     Starting: 1
+     Starting: 2
+     Current staff: 6
+
+Time: 3
+     Finished: 1
+     Current staff: 2
+
+Time: 5
+     Finished: 2
+     Starting: 3
+     Starting: 4
+     Current staff: 6
+
+Time: 6
+     Finished: 3
+     Starting: 5
+     Current staff: 7
+
+Time: 7
+     Finished: 4
+     Starting: 6
+     Current staff: 7
+     Time: 10
+     Finished: 5
+     Current staff: 4
+
+Time: 15
+     Finished: 6
+     Starting: 7
+     Starting: 8
+     Current staff: 5
+     Time: 16
+     Finished: 8
+     Current staff: 2
+
+Time: 18
+     Finished: 7
+     Current staff: 0
+
+**** Shortest possible project execution is 18 ****
+
+buildgarage:
+
+Time: 0
+     Starting: 1
+     Current staff: 1
+
+Time: 14280
+     Finished: 1
+     Starting: 2
+     Starting: 3
+     Current staff: 4
+
+Time: 14284
+     Finished: 2
+     Current staff: 3
+
+     Time: 230182
+     Finished: 3
+     Starting: 4
+     Current staff: 2
+
+Time: 262316
+     Finished: 4
+     Starting: 5
+
+     Starting: 6
+     Starting: 7
+     Current staff: 6
+
+Time: 262331
+     Finished: 7
+     Current staff: 5
+
+Time: 262458
+     Finished: 6
+     Current staff: 4
+
+     Time: 303548
+     Finished: 5
+     Starting: 9
+     Starting: 11
+     Current staff: 6
+
+Time: 307873
+     Finished: 11
+     Starting: 12
+
+     Current staff: 8
+
+Time: 309675
+     Finished: 9
+     Starting: 10
+     Current staff: 7
+
+Time: 363997
+     Starting: 8
+     Finished: 10
+     Current staff: 6
+     Time: 405242
+     Finished: 8
+     Current staff: 4
+
+Time: 429351
+     Finished: 12
+     Starting: 13
+
+     Current staff: 3
+
+Time: 430593
+     Finished: 13
+     Starting: 14
+     Current staff: 2
+
+Time: 484913
+     Finished: 14
+     Current staff: 0
+
+**** Shortest possible project execution is 484913 ****
+
+
+buildrail:
+Time: 0
+     Starting: 9
+     Current staff: 10
+
+Time: 3
+     Finished: 9
+     Starting: 10
+     Starting: 11
+     Starting: 12
+     Starting: 14
+     Starting: 16
+     Starting: 17
+     Current staff: 56
+
+Time: 4
+     Finished: 11
+     Starting: 18
+     Starting: 19
+     Starting: 20
+     Current staff: 64
+
+Time: 5
+     Starting: 2
+     Finished: 10
+     Current staff: 70
+
+Time: 12
+     Finished: 2
+     Current staff: 60
+
+     Time: 16
+     Finished: 20
+     Starting: 23
+     Current staff: 61
+
+
+Time: 28
+     Finished: 14
+     Starting: 15
+     Current staff: 61
+
+Time: 29
+     Finished: 19
+     Current staff: 57
+
+Time: 33
+     Finished: 12
+     Starting: 13
+     Current staff: 57
+
+Time: 38
+     Finished: 16
+     Current staff: 45
+
+Time: 44
+     Finished: 18
+     Starting: 21
+     Current staff: 46
+
+     Time: 46
+     Finished: 23
+     Starting: 26
+     Current staff: 48
+
+
+Time: 48
+     Finished: 15
+     Finished: 17
+     Starting: 22
+     Current staff: 29
+
+Time: 51
+     Starting: 8
+     Finished: 13
+     Current staff: 24
+
+Time: 59
+     Finished: 21
+     Starting: 24
+     Current staff: 26
+
+Time: 63
+     Starting: 3
+     Finished: 8
+     Current staff: 29
+
+     Time: 64
+     Finished: 3
+     Finished: 22
+     Starting: 25
+
+     Current staff: 21
+
+Time: 66
+     Finished: 26
+     Current staff: 14
+
+Time: 119
+     Starting: 4
+     Finished: 24
+     Current staff: 13
+
+Time: 124
+     Starting: 5
+     Finished: 25
+     Starting: 27
+     Current staff: 22
+
+Time: 134
+     Finished: 4
+     Current staff: 16
+
+Time: 136
+     Finished: 5
+     Current staff: 10
+
+     Time: 149
+     Finished: 27
+     Starting: 28
+
+     Starting: 29
+     Current staff: 20
+
+Time: 179
+     Finished: 28
+     Current staff: 10
+
+Time: 186
+     Starting: 1
+     Starting: 6
+     Starting: 7
+     Finished: 29
+     Starting: 30
+     Current staff: 29
+
+Time: 204
+     Finished: 7
+     Current staff: 23
+
+Time: 206
+     Finished: 1
+     Finished: 30
+     Starting: 31
+     Current staff: 13
+
+     Time: 213
+     Finished: 6
+     Current staff: 7
+
+Time: 218
+     Finished: 31
+     Current staff: 0
+
+**** Shortest possible project execution is 218 ****
